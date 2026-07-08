@@ -1,3 +1,5 @@
+package DAY1;
+
 import java.util.HashMap;
 
 public class SUBARRAY_SUM_EQUALS_K_OPTIMIZED {

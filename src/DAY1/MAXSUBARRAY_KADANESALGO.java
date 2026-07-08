@@ -1,3 +1,5 @@
+package DAY1;
+
 import java.util.*;
 public class MAXSUBARRAY_KADANESALGO {
     public static int maxsub(int arr[]){

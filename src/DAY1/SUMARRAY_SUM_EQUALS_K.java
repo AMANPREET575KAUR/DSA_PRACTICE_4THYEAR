@@ -1,3 +1,5 @@
+package DAY1;
+
 import java.util.*;
 public class SUMARRAY_SUM_EQUALS_K {
     public static int sumequals(int arr[],int k){

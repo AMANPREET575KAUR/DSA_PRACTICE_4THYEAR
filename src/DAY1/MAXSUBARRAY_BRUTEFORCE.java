@@ -1,3 +1,5 @@
+package DAY1;
+
 import java.util.*;
 public class MAXSUBARRAY_BRUTEFORCE {
     public static int subarray(int arr[]){
