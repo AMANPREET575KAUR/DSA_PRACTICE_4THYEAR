@@ -5,7 +5,7 @@ import java.util.*;
 public class LONGEST_CONSECUTIVE {
 
     public static int longestConsecutive(int[] nums) {
-        HashSet<Integer> s = new HashSet<>();
+        HashSet<Integer> s = new HashSet<>();  // IF WE WANT TO DIRECLTY VALUE
 
 
         for (int x : nums) {
